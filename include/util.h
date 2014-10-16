@@ -3,11 +3,7 @@
 
 #include  <stdio.h>
 
-int test()
-{
-        printf("test\n");
-        return 0;
-}
+int test();
 
 
 #endif  /*UTIL_H*/
